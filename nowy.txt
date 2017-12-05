@@ -1,0 +1,12 @@
+<html>
+<head>
+Moja strona
+</head>
+<body>
+         o 
+        \|/
+         |
+        / \
+
+</body>
+</html>
