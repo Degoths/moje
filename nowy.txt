@@ -1,12 +1,5 @@
-<html>
-<head>
-Moja strona
-</head>
-<body>
-         o 
-        \|/
-         |
-        / \
-
-</body>
-</html>
+1aaabbbccc
+2dddeeefff
+3ggghhhiii
+4jjjkkklll
+5mmmnnnooo
